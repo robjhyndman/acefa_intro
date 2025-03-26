@@ -1,0 +1,39 @@
+---
+title: Rob J Hyndman
+author: Rob J Hyndman
+date: 2 April 2025
+
+toc: false
+filters: [remove_title.lua]
+format:
+  presentation-beamer: default
+---
+
+## Rob J Hyndman
+
+\placefig{10}{0.25}{height=0.65cm}{figs/monash_white}
+
+\begin{textblock}{6}(.0,1.2)
+\begin{itemize}\tightlist
+\item Automatic \rlap{forecasting algorithms}
+\item Exploratory \rlap{time series analysis}
+\item Global vs local \rlap{models}
+\item Forecast \rlap{reconciliation}
+\item Surprisals and anomaly detection
+\item Reproducibility tools
+\item Open source\\ software
+\item R Journal
+\end{itemize}
+\end{textblock}
+
+\placefig{5.8}{6}{width=2.5cm}{figs/quarto.png}
+\placefig{8.3}{6}{width=2.5cm}{figs/vital.png}
+\placefig{10.8}{6}{width=2.5cm}{figs/lookout.png}
+\placefig{13.3}{6}{width=2.5cm}{figs/weird.png}
+
+\placefig{7.05}{3.825}{width=2.5cm}{figs/tsibble.png}
+\placefig{9.55}{3.825}{width=2.5cm}{figs/feasts.png}
+\placefig{12.05}{3.825}{width=2.5cm}{figs/fable.png}
+
+\placefig{10.8}{1.65}{width=2.5cm}{figs/forecast.png}
+\placefig{13.3}{1.65}{width=2.5cm}{figs/fpp3.png}
