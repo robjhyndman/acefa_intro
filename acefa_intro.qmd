@@ -9,6 +9,11 @@ format:
   presentation-beamer: default
 ---
 
+## NUMBAT
+
+\placefig{0}{1.1}{width=15.8cm}{figs/numbat}
+
+
 ## Rob J Hyndman
 
 \placefig{10}{0.25}{height=0.65cm}{figs/monash_white}
